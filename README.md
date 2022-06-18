@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+Hello, Adam here :) 
+
+### Me
+
+- 7+ years of experiance in PLC programming :rocket: 
+- 2 years of experiance in robots programming :computer:
+- currently living in Wrocław/Słupsk - Poland :house_with_garden:
+- hungry for knowledge about Java :pizza:
+- 🔭 I'm currently working on expanding my portfolio on GitHub :coffee:
+
+### You
+
+- were interested enough to come over, nice! ✋🏽
+- are always very welcomed here! ☕
+- can feel free to share your thoughts & pro tips (including savoire vivre of GitHub and/or Java) 👨🏼‍🏫
 <!--
 **Adamwaa/Adamwaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-f
