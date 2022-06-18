@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hello, Adam here :) 
+### Hello, Adam here 👋
 
 ### Me
 
