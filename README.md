@@ -3,6 +3,7 @@
 ### Me
 
 - 7+ years of experiance in PLC programming :rocket: 
+- 3+ years of experiance in Vision Systems programming :eyes:
 - 2 years of experiance in robots programming :computer:
 - currently living in Wrocław/Słupsk - Poland :house_with_garden:
 - hungry for knowledge about Java :pizza:
