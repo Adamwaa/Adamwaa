@@ -3,22 +3,54 @@
 </div>
 
 
-### Hello, Adam here 👋
+### Hello Adam here, I'm Java developer based in Poland. :house_with_garden:
+I specialize in creating scalable and complex technical solutions, with a strong focus on Java Microservices architecture.👋
 
-### Me
+## Skills
+- **🌟 Java** (Advanced expertise in Java development)
+- **💾 SQL & NoSQL** (Proficient in database management and optimization)
+- **🌐 Microservices** (Experienced in designing and implementing microservices architecture)
+- **🍃 Spring & Spring Boot** (In-depth knowledge of Spring ecosystem)
+- **🐘 Hibernate ORM** (Expertise in object-relational mapping with Hibernate)
+- **🐳 Docker** (Skilled in containerization and deployment)
+- **☁️ AWS** (Proficient in Amazon Web Services for scalable cloud solutions)
 
-- 5 years of experience in Java programming :computer:
-- Experienced in Microservices projects :books:
-- 7+ years of experiance in PLC programming(Java/Python/LUA) :rocket: 
-- 3+ years of experiance in Vision Systems programming :eyes:
-- 2 years of experiance in robots programming :robot:
-- currently living in Gdańsk/Słupsk - Poland :house_with_garden:
+## My Experience
 
-### You
+### Strategic Project Analysis and Redesign
+- Played a pivotal role in analyzing and redesigning technical solutions for complex projects, aligning them with organizational objectives.
 
-- were interested enough to come over, nice! ✋🏽
-- are always very welcomed here! ☕
-- can feel free to share your thoughts & pro tips (including savoire vivre of GitHub and/or Java) 👨🏼‍🏫
+### Java and SQL Expertise
+- Extensive knowledge in Java programming and SQL, delivering solutions that exceed customer expectations and optimize system performance.
+
+### Spring Framework and Hibernate ORM
+- Developed robust applications using Spring Framework and Hibernate ORM, focusing on efficiency and adherence to best practices.
+
+### Software Development and Testing
+- Responsible for developing and testing software modules, ensuring software reliability and functionality through rigorous testing.
+
+### Deployment and Maintenance
+- Managed software upgrades and hotfixes, maintaining the operational integrity of applications.
+
+### Collaborative Teamwork
+- Worked closely with programmers, analysts, and testers, ensuring projects met specifications and deadlines through effective teamwork.
+
+### Tool Proficiency
+- Proficient in Docker and other development tools to streamline the development process.
+
+### AWS Cloud
+- Proficient in leveraging AWS Cloud services to build scalable, secure, and efficient applications.
+
+## Skills
+- **🌟 Java** (Advanced expertise in Java development)
+- **💾 SQL & NoSQL** (Proficient in database management and optimization)
+- **🌐 Microservices** (Experienced in designing and implementing microservices architecture)
+- **🍃 Spring & Spring Boot** (In-depth knowledge of Spring ecosystem)
+- **🐘 Hibernate ORM** (Expertise in object-relational mapping with Hibernate)
+- **🐳 Docker** (Skilled in containerization and deployment)
+- **☁️ AWS** (Proficient in Amazon Web Services for scalable cloud solutions)
+
+Thank you for visiting my profile. Feel free to connect!
 
 
 <div id="badges">
