@@ -41,17 +41,13 @@ I specialize in creating scalable and complex technical solutions, with a strong
 ### AWS Cloud
 - Proficient in leveraging AWS Cloud services to build scalable, secure, and efficient applications.
 
-## Skills
-- **🌟 Java** (Advanced expertise in Java development)
-- **💾 SQL & NoSQL** (Proficient in database management and optimization)
-- **🌐 Microservices** (Experienced in designing and implementing microservices architecture)
-- **🍃 Spring & Spring Boot** (In-depth knowledge of Spring ecosystem)
-- **🐘 Hibernate ORM** (Expertise in object-relational mapping with Hibernate)
-- **🐳 Docker** (Skilled in containerization and deployment)
-- **☁️ AWS** (Proficient in Amazon Web Services for scalable cloud solutions)
+
+
+
+
+
 
 Thank you for visiting my profile. Feel free to connect!
-
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/adam-wrutniak-a132421bb">
