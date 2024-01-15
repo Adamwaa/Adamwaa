@@ -7,9 +7,9 @@
 
 ### Me
 
-- 4 years of experience in Java programming :computer:
+- 5 years of experience in Java programming :computer:
 - Experienced in Microservices projects :books:
-- 7+ years of experiance in PLC programming :rocket: 
+- 7+ years of experiance in PLC programming(Java/Python/LUA) :rocket: 
 - 3+ years of experiance in Vision Systems programming :eyes:
 - 2 years of experiance in robots programming :robot:
 - currently living in Gdańsk/Słupsk - Poland :house_with_garden:
